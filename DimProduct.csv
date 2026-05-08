@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Subcategory,Brand,PackSize,UoM,ShelfLifeDays,StandardCost,StandardPrice
+P001,Milk 2L,Dairy,Milk,DairyLand,2L,Litre,10,1.05,1.79
+P002,Bread White,Bakery,Bread,BakeHouse,800g,Loaf,5,0.42,0.89
+P003,Eggs 12 Pack,Dairy,Eggs,FarmFresh,12pk,Pack,21,1.92,2.99
+P004,Bananas,Fresh Produce,Fruit,Tropical,1kg,Kg,7,0.78,1.29
+P005,Apples Gala,Fresh Produce,Fruit,Orchard,1kg,Kg,21,1.1,1.89
+P006,Tomatoes,Fresh Produce,Vegetables,GreenGrow,1kg,Kg,10,1.25,2.19
+P007,Chicken Breast,Meat,Poultry,FarmFresh,500g,Pack,5,3.8,5.99
+P008,Minced Beef,Meat,Beef,FarmFresh,500g,Pack,5,4.1,6.49
+P009,Rice 1kg,Pantry,Grains,GlobalFoods,1kg,Kg,365,0.95,1.79
+P010,Pasta 500g,Pantry,Dry Goods,GlobalFoods,500g,Pack,730,0.58,1.09
+P011,Cereal 500g,Breakfast,Cereal,MorningCo,500g,Box,365,1.65,2.99
+P012,Orange Juice 1L,Beverages,Juice,SunSip,1L,Bottle,14,0.92,1.79
+P013,Still Water 500ml,Beverages,Water,ClearSpring,500ml,Bottle,730,0.18,0.45
+P014,Cola 2L,Beverages,Soft Drink,FizzCo,2L,Bottle,365,0.62,1.25
+P015,Potato Chips 150g,Snacks,Savory,Crunchy,150g,Bag,180,0.55,1.49
+P016,Yogurt Natural 4pk,Dairy,Yogurt,DairyLand,4pk,Pack,21,1.38,2.49
+P017,Butter 250g,Dairy,Butter,DairyLand,250g,Pack,45,1.22,2.19
+P018,Frozen Pizza,Frozen Foods,Meal,QuickBite,1pc,Each,180,1.95,3.49
+P019,Frozen Peas 1kg,Frozen Foods,Vegetable,QuickBite,1kg,Bag,365,0.88,1.59
+P020,Tea Bags 80pk,Hot Drinks,Tea,BrewTime,80pk,Box,730,1.4,2.79
