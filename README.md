@@ -121,42 +121,8 @@ The dashboard uses custom DAX measures to calculate business metrics. Examples i
 - SQL-based data cleaning and preparation.
 - Power BI dashboard with interactive visuals.
 - KPI-focused reporting for inventory and sales analysis.
-Folder Structure
-text
-Food-Retail-Stock-Management/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── cleaning_queries.sql
-│   └── analysis_queries.sql
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-├── images/
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
-│
-└── README.md
-Learning Outcomes
-This project demonstrates skills in:
-SQL data cleaning and transformation.
-Handling real-world data quality issues.
-Creating analytical datasets for BI reporting.
-Writing DAX measures in Power BI.
-Designing professional dashboards.
-Interpreting stock and sales KPIs for business decisions.
-Future Improvements
-Possible enhancements for this project include:
-Adding more store locations.
-Introducing seasonal sales patterns.
-Expanding supplier performance analysis.
-Adding forecast-based inventory alerts.
-Creating drill-through pages for product-level analysis.
-Implementing real-time data refresh logic.
-Conclusion
+## Folder Structure
+<img width="945" height="618" alt="Image" src="https://github.com/user-attachments/assets/35e452b7-c707-43a4-83c2-1dfb34fa6b6c" />
+
+## Conclusion
 This project shows how SQL Server and Power BI can be combined to build a practical stock management analytics solution for a food retail business. The dataset, cleaning process, and dashboard together provide a strong end-to-end example of data analysis, data preparation, and business intelligence reporting.
