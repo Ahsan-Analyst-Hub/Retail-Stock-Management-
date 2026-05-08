@@ -1,0 +1,11 @@
+SupplierID,SupplierName,LeadTimeDays,FillRatePct,OnTimeDeliveryPct,Country
+SUP01,Dairy Direct UK,2,96.5,94.0,UK
+SUP02,Fresh Fields Ltd,1,92.0,90.0,UK
+SUP03,Bake & Grain,3,95.0,92.0,UK
+SUP04,Northern Farms,2,93.5,91.5,UK
+SUP05,Global Pantry,5,88.0,86.0,Netherlands
+SUP06,Quick Freeze Foods,4,94.5,93.0,UK
+SUP07,Beverage Hub,3,91.0,89.5,Germany
+SUP08,SnackWorks,4,90.5,88.0,UK
+SUP09,Tea Traders,6,87.0,84.0,India
+SUP10,Meat Masters,2,95.5,95.0,UK
