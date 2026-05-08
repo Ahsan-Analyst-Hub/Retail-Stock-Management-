@@ -79,11 +79,16 @@ This step ensured that the final dataset was accurate enough for meaningful repo
 The Power BI dashboard was designed to provide a clear view of stock performance, sales activity, and inventory health. It includes interactive visuals and DAX-based KPIs to help users explore the data efficiently.
 The dashboard was built across two pages, with KPIs on each page.
 
-Page 1: Stock Overview
-- This page focuses on inventory monitoring and stock control.
+### Page 1: Stock Overview
 
-Page 2: Sales and Supplier Performance
+- This page focuses on inventory monitoring and stock control.
+<img width="1178" height="670" alt="Image" src="https://github.com/user-attachments/assets/7e9fe870-cb22-4d7f-a214-aa1cfcb5ae81" />
+
+### Page 2: Sales and Supplier Performance
+
 - This page focuses on sales analysis and replenishment performance.
+<img width="1180" height="670" alt="Image" src="https://github.com/user-attachments/assets/aae28ad1-c744-48dd-9edc-df21ce016951" />
+
 ## Key Business KPIs
 
 The project was designed to support the following business KPIs:
