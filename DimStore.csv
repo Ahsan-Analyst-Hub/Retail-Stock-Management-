@@ -1,0 +1,9 @@
+StoreID,StoreName,City,Region,StoreType,OpeningDate
+S001,Tesco Express Camden,London,Greater London,Convenience,2018-05-01
+S002,Sainsburys Local Croydon,London,Greater London,Convenience,2017-08-15
+S003,Asda Superstore Manchester,Manchester,North West,Superstore,2016-03-10
+S004,Morrisons Leeds City,Leeds,Yorkshire,Superstore,2019-10-20
+S005,Waitrose Bath,Bath,South West,Premium,2020-02-11
+S006,Co-op Birmingham Central,Birmingham,West Midlands,Convenience,2018-11-05
+S007,Tesco Extra Glasgow,Glasgow,Scotland,Hypermarket,2015-06-30
+S008,Sainsburys Nottingham,Nottingham,East Midlands,Superstore,2019-01-22
