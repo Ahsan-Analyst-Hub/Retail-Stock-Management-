@@ -1,4 +1,7 @@
-# Food Retail Stock Management Dashboard
+# Food Retail Stock Management Data analysis 
+
+<img width="1351" height="768" alt="Image" src="https://github.com/user-attachments/assets/efba67a6-b7cd-4a60-a482-77316849867b" />
+
 A Food Retail Stock Management Analytics Project built using SQL Server for data preparation and cleaning, and Power BI for interactive dashboard reporting. The project uses a dataset of approximately 10,000 rows designed to simulate real-world retail inventory and sales operations.
 ## Project Overview
 This project focuses on analysing food retail stock data to support inventory control, sales monitoring, and operational decision-making. The sample dataset was intentionally created with a realistic business structure and includes common data quality issues so the cleaning process can be practised and demonstrated.
