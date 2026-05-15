@@ -131,3 +131,9 @@ The dashboard uses custom DAX measures to calculate business metrics. Examples i
 
 ## Conclusion
 This project shows how SQL Server and Power BI can be combined to build a practical stock management analytics solution for a food retail business. The dataset, cleaning process, and dashboard together provide a strong end-to-end example of data analysis, data preparation, and business intelligence reporting.
+
+## Author
+- Ahsan ul haq
+
+## License
+- This project is intended for educational and portfolio purposes.
