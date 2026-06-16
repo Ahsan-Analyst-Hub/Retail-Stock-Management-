@@ -1,4 +1,4 @@
-# Food Retail Stock Management Data analysis 
+# Retail Stock Management Data analysis 
 
 <img width="1351" height="768" alt="Image" src="https://github.com/user-attachments/assets/efba67a6-b7cd-4a60-a482-77316849867b" />
 
